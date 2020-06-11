@@ -1,5 +1,5 @@
-(function(){  //Comandos esenciales TS:  tsc --init  tsc -w  
-
+(function(){ 
+//******************* Destructuración de objetos */
     const avenger = {
         nombre:   'Peter',
         apellido: 'Choaz',
