@@ -9,13 +9,13 @@
 
     const enviarMision = ( xmen: Xmen ) => {
 
-        console.log(`Enviando a ${ xmen.nombre} a la misión`)
+        console.log(`Enviando a ${ xmen.nombre } a la misión`)
 
     }
 
     const retirarXmen = ( xmen: Xmen ) => {
 
-        console.log(`Retirando a ${ xmen.nombre} de la misión`)
+        console.log(`Retirando a ${ xmen.nombre } de la misión`)
 
     }
 
