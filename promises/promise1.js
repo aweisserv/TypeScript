@@ -10,5 +10,5 @@
         });
     };
     obtenerSalario().then(a => console.log(a.toUpperCase()));
-    obtenerSalario().catch(a => console.log(a.toUpperCase()));
+    obtenerSalario().catch(a => console.warn(a.toUpperCase()));
 })();
